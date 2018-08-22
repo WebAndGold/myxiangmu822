@@ -1,0 +1,6 @@
+INSERT INTO `faxian_hkd` VALUES (1, '神器抵制你的大油田，你确定不点开', 'http://127.0.0.1/allPHP/5b207ca5N10505aef.jpgq70.jpg', '爱莉缇', 'http://127.0.0.1/allPHP/5af3a7dcn20fd9eae.jpgq70.jpg');
+INSERT INTO `faxian_hkd` VALUES (2, '颜值控的天下，这些迷你包你确定不了解一下？', 'http://127.0.0.1/allPHP/5b00c96dN6886e8eb.jpg70.jpg', '55STYLE ', 'http://127.0.0.1/allPHP/5a6ac74eNbdb74499.png');
+INSERT INTO `faxian_hkd` VALUES (3, '看完复联三，我只想入手一双猫跟鞋', 'http://127.0.0.1/allPHP/5b0aa267Na1fc49fe.jpgq70.jpg', '55STYLE ', 'http://127.0.0.1/allPHP/5a6ac74eNbdb74499.png');
+INSERT INTO `faxian_hkd` VALUES (4, '痴情的三大星座前三，不想看看你的男神在榜没？', 'http://127.0.0.1/allPHP/5b0933deN8602b5a6.jpgq70.jpg', '潮流穿搭汇', 'http://127.0.0.1/allPHP/59f423d4Nf0605d13.jpg70.jpg');
+INSERT INTO `faxian_hkd` VALUES (5, 'CarharttWIP步入盛夏延伸创意', 'http://127.0.0.1/allPHP/5b0c3af9N6533c3ec.jpg70.jpg', 'ShoeGaze', 'http://127.0.0.1/allPHP/56e8dae2N799695e8.png');
+INSERT INTO `faxian_hkd` VALUES (6, '时光里的故事需要沉淀，你不知道的关于手表保养的秘密！', 'http://127.0.0.1/allPHP/5b0c14d8Nff2b7501.jpgq70.jpg', '潮流穿搭汇 ', 'http://127.0.0.1/allPHP/59f423d4Nf0605d13.jp0.jpg');

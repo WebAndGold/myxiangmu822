@@ -1,0 +1,6 @@
+INSERT INTO `faxian_hwd` VALUES (1, '即刻分享你的生活，微信相框帮你做到', 'http://127.0.0.1/allPHP/5b2a3c20N7c91eaf7.png', '小风车', 'http://127.0.0.1/allPHP/59f2a49eN124c8bb2.png');
+INSERT INTO `faxian_hwd` VALUES (2, '精彩照片轻松分享，你只差一个微信相框', 'http://127.0.0.1/allPHP/5b2a3dbeNd9db751c.png', '小风车', 'http://127.0.0.1/allPHP/59f2a49eN124c8bb2.png');
+INSERT INTO `faxian_hwd` VALUES (3, '享受4K画质特效全开的游戏乐趣', 'http://127.0.0.1/allPHP/5b2b0e5fNb12db775.jpg70.jpg', '萝卜先生 ', 'http://127.0.0.1/allPHP/5837ac71N4aec37a7.png');
+INSERT INTO `faxian_hwd` VALUES (4, '痴情的三大星座前三，不想看看你的男神在榜没？', 'http://127.0.0.1/allPHP/5b0933deN8602b5a6.jpgq70.jpg', '潮流穿搭汇', 'http://127.0.0.1/allPHP/59f423d4Nf0605d13.jpg70.jpg');
+INSERT INTO `faxian_hwd` VALUES (5, '吃鸡新载具曝光：甲壳虫汽车和电瓶车？', 'http://127.0.0.1/allPHP/5b2b17e0Ncc4210f6.png', '品康生活 ', 'http://127.0.0.1/allPHP/599aab13Nd47537ef.jpgq70.jpg');
+INSERT INTO `faxian_hwd` VALUES (6, '关于“流行乐”，恐怕你是真的理解错了', 'http://127.0.0.1/allPHP/5b2c964eN50bbec1b.jpgq70.jpg', '玩机汇', 'http://127.0.0.1/allPHP/59e5b593N7d327365.jpg70.jpg');
